@@ -21,6 +21,6 @@ for i in range(2, n):
         lst.append ( i )
 print(lst)
 end = time.time() - start ## собственно время работы программы
-
+print(end)
 
 
